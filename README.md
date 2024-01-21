@@ -11,10 +11,19 @@
 🛠️ Feel free to explore my projects and witness my growth in the web development realm!
 
 :mailbox: Reach me out!
+<a href="www.linkedin.com/in/anton-vasylchenko-34b20a260" target="_blank">
+  <span style="pointer-events: none;">![Linkedin    Badge](https://img.shields.io/badge/linkedin--000?style=social&logo=linkedin&logoColor=blue&link=www.linkedin.com%2Fin%2Fanton-vasylchenko-34b20a260)
+  </span>
+</a>
+<a href="https://t.me/Vasylchenko_Anton" target="_blank">
+  <span style="pointer-events: none;">![Mail    Badge](https://img.shields.io/badge/Gmail--000?style=social&logo=gmail&logoColor=red&link=vasylchenko.anton1997%40gmail.com)
+  </span>
+</a>
 
-![Linkedin Badge](https://img.shields.io/badge/linkedin--000?style=social&logo=linkedin&logoColor=blue&link=www.linkedin.com%2Fin%2Fanton-vasylchenko-34b20a260)
-![Mail Badge](https://img.shields.io/badge/Gmail--000?style=social&logo=gmail&logoColor=red&link=vasylchenko.anton1997%40gmail.com)
-![Telegram Badge](https://img.shields.io/badge/Telegram--000?style=social&logo=telegram&logoColor=blue&link=%40Vasylchenko_Anton)
+<a href="mailto:vasylchenko.anton1997@gmail.com" target="_blank">
+  <span style="pointer-events: none;">![Telegram Badge](https://img.shields.io/badge/Telegram--000?style=social&logo=telegram&logoColor=blue&link=%40Vasylchenko_Anton)
+  </span>
+</a>
 
 ### 🔥🔥🔥Top Technologies
 ![Static Badge](https://img.shields.io/badge/HTML--000?style=social&logo=html5)
