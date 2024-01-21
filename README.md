@@ -36,10 +36,7 @@
 
 ![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smd16Bi&show_icons=true&theme=transparent)
 <br>
-<br>
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smd16Bi&layout=compact)
 
 
 
