@@ -34,6 +34,8 @@
 ![Static Badge](https://img.shields.io/badge/graphql--8A2BE2?style=social&logo=graphql&logoColor=black)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 
 
