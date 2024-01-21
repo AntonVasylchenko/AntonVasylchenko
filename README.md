@@ -1,3 +1,5 @@
+<img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQED3_vzRg5VCw/profile-displaybackgroundimage-shrink_350_1400/0/1696672144879?e=1711584000&v=beta&t=cjnvveBrsSAjz7r8Lwx1lcuxtBwQGWAtfuGTJMNyCjQ">
+
 ### 👋 Hi, I'm Anton Vasylchenko!
 
 🚀 Shopify Front-end Developer with over a year of experience. My technical skills include using Shopify Liquid, HTML, CSS, JS (ES6), jQuery, and BEM. I have practical experience in implementing Google Optimized.
