@@ -14,3 +14,27 @@
 ![Static Badge](https://img.shields.io/badge/Gmail--000?style=social&logo=gmail&logoColor=red&link=vasylchenko.anton1997%40gmail.com)
 ![Static Badge](https://img.shields.io/badge/Telegram--000?style=social&logo=telegram&logoColor=blue&link=%40Vasylchenko_Anton)
 
+
+### 🔥🔥🔥Top Technologies
+![Static Badge](https://img.shields.io/badge/HTML--000?style=social&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS3--000?style=social&logo=css3)
+![Static Badge](https://img.shields.io/badge/shopify--8A2BE2?style=social&logo=shopify&logoColor=green)
+![Static Badge](https://img.shields.io/badge/JS--8A2BE2?style=social&logo=javascript&logoColor=yellow)
+![Static Badge](https://img.shields.io/badge/sass--8A2BE2?style=social&logo=sass&logoColor=black)
+![Static Badge](https://img.shields.io/badge/jquery--8A2BE2?style=social&logo=jquery&logoColor=black)
+![Static Badge](https://img.shields.io/badge/BEM--8A2BE2?style=social&logo=bem&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Git--8A2BE2?style=social&logo=git&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Google%20Search%20Console--8A2BE2?style=social&logo=googlesearchconsole&logoColor=black)
+
+### 📚📚📚 The technologies I study
+![Static Badge](https://img.shields.io/badge/react--8A2BE2?style=social&logo=react&logoColor=black)
+![Static Badge](https://img.shields.io/badge/typescript--8A2BE2?style=social&logo=typescript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/remix--8A2BE2?style=social&logo=remix&logoColor=black)
+![Static Badge](https://img.shields.io/badge/graphql--8A2BE2?style=social&logo=graphql&logoColor=black)
+
+
+
+
+
+
+
