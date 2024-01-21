@@ -12,7 +12,8 @@
 
 :mailbox: Reach me out!
 
-![Linkedin Badge](https://img.shields.io/badge/linkedin--000?style=social&logo=linkedin&logoColor=blue&link=www.linkedin.com%2Fin%2Fanton-vasylchenko-34b20a260)
+<>
+![Linkedin Badge](https://img.shields.io/badge/linkedin--000?style=social&logo=linkedin&logoColor=blue&link=www.linkedin.com%2Fin%2Fanton-vasylchenko-34b20a260)(www.linkedin.com/in/anton-vasylchenko-34b20a260)
 ![Mail Badge](https://img.shields.io/badge/Gmail--000?style=social&logo=gmail&logoColor=red&link=vasylchenko.anton1997%40gmail.com)
 ![Telegram Badge](https://img.shields.io/badge/Telegram--000?style=social&logo=telegram&logoColor=blue&link=%40Vasylchenko_Anton)
 
