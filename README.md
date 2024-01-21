@@ -19,6 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML--000?style=social&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS3--000?style=social&logo=css3)
 ![Static Badge](https://img.shields.io/badge/shopify--8A2BE2?style=social&logo=shopify&logoColor=green)
+![Static Badge](https://img.shields.io/badge/Liquid--8A2BE2?style=social&logo=shopify&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/JS--8A2BE2?style=social&logo=javascript&logoColor=yellow)
 ![Static Badge](https://img.shields.io/badge/sass--8A2BE2?style=social&logo=sass&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/jquery--8A2BE2?style=social&logo=jquery&logoColor=black)
