@@ -27,9 +27,9 @@
 ![Static Badge](https://img.shields.io/badge/graphql--8A2BE2?style=social&logo=graphql&logoColor=black)
 
 
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smd16Bi&show_icons=true&theme=transparent)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonVasylchenko&show_icons=true&theme=transparent)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smd16Bi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonVasylchenko&layout=compact)
 
 
 
