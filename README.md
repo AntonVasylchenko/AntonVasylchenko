@@ -4,9 +4,7 @@
 
 🎨 I also have significant experience in crafting email templates and implementing pixel-perfect design.
 
-📚 Concurrently, I'm learning React to elevate my skills as a developer. My ultimate goal is to secure a senior developer position.
-
-🛠️ Feel free to explore my projects and witness my growth in the web development realm!
+📚 Concurrently, I'm learning React to elevate my skills as a developer.
 
 ### 🔥🔥🔥Top Technologies
 ![Static Badge](https://img.shields.io/badge/HTML--000?style=social&logo=html5)
